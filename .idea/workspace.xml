@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bef434cd-a590-46a9-8556-0c7abd3e70c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/transformer/StringReplacer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/patterns/transformer/StringTransformer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StringDrink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/patterns/StringDrink.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/liac1983/patterns-master/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/transformer/StringCaseChanger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/transformer/StringDrink.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/transformer/StringInverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/transformer/StringReplacer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/transformer/StringTransformer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StringDrinkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StringDrinkTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +48,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_directory_selection": "/home/utilizador/Documentos/LDTS/patterns-master/src/main/java/patterns"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -48,6 +58,9 @@
     </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="transformer" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="patterns" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
