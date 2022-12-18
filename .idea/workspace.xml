@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bef434cd-a590-46a9-8556-0c7abd3e70c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/transformer/StringTransformer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/transformer/StringDrink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/transformer/StringDrink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/transformer/StringInverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/transformer/StringTransformer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/transformer/StringTransformer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +43,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="transformer" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="transformer" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
