@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bef434cd-a590-46a9-8556-0c7abd3e70c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/transformer/StringInverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/transformer/StringTransformer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/transformer/StringTransformer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/transformer/StringReplacer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
